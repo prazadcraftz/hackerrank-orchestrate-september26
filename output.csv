@@ -1,0 +1,251 @@
+request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_26,15656000.00,affordable_now,full_payment,2025-08-03:15656000,2025-08-03,none,Pay IDR 15656000 in full on 2025-08-03; the validated 90-date forecast preserves the IDR 24768300 minimum.
+request_27,6670.00,affordable_now,full_payment,2026-07-05:6670,2026-07-05,none,Pay ZAR 6670 in full on 2026-07-05; the validated 90-date forecast preserves the ZAR 20500 minimum.
+request_28,281.89,affordable_later,wait,2024-08-15:1302.4,2024-08-15,none,Wait until 2024-08-15 to pay EUR 1302.4 in full while preserving the EUR 1100 minimum.
+request_29,3108.72,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 51524 by 2025-11-23 while preserving the ZAR 28300 minimum.
+request_30,303.16,not_affordable,not_recommended,none,,none,No eligible plan completes USD 775.2 by 2026-06-06 while preserving the USD 900 minimum.
+request_31,2568593.04,affordable_later,wait,2024-11-15:18164000,2024-11-15,none,Wait until 2024-11-15 to pay IDR 18164000 in full while preserving the IDR 16588900 minimum.
+request_32,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 40018 by 2025-04-15 while preserving the ZAR 35700 minimum.
+request_33,32279.86,affordable_later,wait,2026-03-15:118000,2026-03-15,none,Wait until 2026-03-15 to pay INR 118000 in full while preserving the INR 102100 minimum.
+request_34,64430.21,not_affordable,not_recommended,none,,none,No eligible plan completes INR 129400 by 2025-01-28 while preserving the INR 138500 minimum.
+request_35,19973.24,affordable_later,wait,2026-01-15:212000,2026-01-15,none,Wait until 2026-01-15 to pay INR 212000 in full while preserving the INR 106400 minimum.
+request_36,493.30,affordable_later,wait,2026-09-15:3954,2026-09-15,none,Wait until 2026-09-15 to pay USD 3954 in full while preserving the USD 2400 minimum.
+request_37,4880085.52,affordable_later,wait,2024-05-15:14649000,2024-05-15,none,Wait until 2024-05-15 to pay IDR 14649000 in full while preserving the IDR 17056200 minimum.
+request_38,170.70,affordable_later,wait,2025-10-15:971.3,2025-10-15,none,Wait until 2025-10-15 to pay EUR 971.3 in full while preserving the EUR 400 minimum.
+request_39,35875.86,affordable_later,wait,2026-06-15:208600,2026-06-15,none,Wait until 2026-06-15 to pay INR 208600 in full while preserving the INR 213400 minimum.
+request_40,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1290.3 by 2024-08-15 while preserving the EUR 1500 minimum.
+request_41,7915614.90,affordable_later,wait,2026-01-15:38760000,2026-01-15,none,Wait until 2026-01-15 to pay IDR 38760000 in full while preserving the IDR 25366600 minimum.
+request_42,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 52100 by 2026-03-15 while preserving the INR 113100 minimum.
+request_43,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 43339000 by 2024-11-15 while preserving the IDR 21398000 minimum.
+request_44,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 95800 by 2025-04-15 while preserving the INR 82900 minimum.
+request_45,3614476.62,affordable_later,wait,2026-09-15:21983000,2026-09-15,none,Wait until 2026-09-15 to pay IDR 21983000 in full while preserving the IDR 11149800 minimum.
+request_46,36858.40,affordable_with_plan,partial_payment,2024-12-03:36858.40|2024-12-15:12591.60,2024-12-15,none,Use two payments to complete INR 49450 by 2024-12-15 while preserving the INR 84000 minimum.
+request_47,6146709.46,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 38114000 by 2025-06-19 while preserving the IDR 30049000 minimum.
+request_48,45700.00,affordable_now,full_payment,2026-07-25:45700,2026-07-25,none,Pay INR 45700 in full on 2026-07-25; the validated 90-date forecast preserves the INR 71300 minimum.
+request_49,11974188.05,not_affordable,not_recommended,none,2024-05-15,none,No eligible plan completes IDR 34333000 by 2024-05-22 while preserving the IDR 20275700 minimum.
+request_50,43900.00,affordable_now,full_payment,2025-08-06:43900,2025-08-06,none,Pay INR 43900 in full on 2025-08-06; the validated 90-date forecast preserves the INR 99700 minimum.
+request_51,2191000.00,affordable_now,full_payment,2026-01-03:2191000,2026-01-03,none,Pay IDR 2191000 in full on 2026-01-03; the validated 90-date forecast preserves the IDR 7811000 minimum.
+request_52,18701.97,affordable_later,wait,2024-06-15:28870,2024-06-15,none,Wait until 2024-06-15 to pay INR 28870 in full while preserving the INR 41500 minimum.
+request_53,477.89,affordable_with_plan,installments,2025-11-21:589.06|2025-12-19:589.06|2026-01-16:589.06,2026-01-15,none,Use 3 payments to complete USD 1699.2 by 2026-01-16 while preserving the USD 2100 minimum.
+request_54,2064.79,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 121528 by 2026-08-21 while preserving the ZAR 37000 minimum.
+request_55,114393.42,affordable_with_plan,installments,2026-06-11:75781.33|2026-07-12:75781.33|2026-08-12:75781.33,2026-07-15,reduce_to:event_5103:2536,Use 3 payments to complete INR 218600 by 2026-08-12 while preserving the INR 124300 minimum.
+request_56,508.55,affordable_with_plan,partial_payment,2025-02-03:508.55|2025-02-15:373.01,2025-02-15,none,Use two payments to complete USD 881.56 by 2025-02-15 while preserving the USD 2100 minimum.
+request_57,12657.18,affordable_later,wait,2026-06-15:61446,2026-06-15,none,Wait until 2026-06-15 to pay ZAR 61446 in full while preserving the ZAR 42700 minimum.
+request_58,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 16226000 by 2025-01-25 while preserving the IDR 14433900 minimum.
+request_59,115099.27,affordable_with_plan,installments,2025-05-07:48741.33|2025-06-04:48741.33|2025-07-02:48741.33,,reduce_to:event_5537:3930|stop:event_5473,Use 3 payments to complete INR 140600 by 2025-07-02 while preserving the INR 132600 minimum.
+request_60,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 199.89 by 2026-03-04 while preserving the USD 400 minimum.
+request_61,29062.00,affordable_with_plan,installments,2024-03-17:10074.83|2024-04-17:10074.83|2024-05-18:10074.83,2024-03-03,none,Use 3 payments to complete ZAR 29062 by 2024-05-18 while preserving the ZAR 36700 minimum.
+request_62,340.11,affordable_with_plan,full_payment,2025-08-05:404.23,,reduce_to:event_5750:21|stop:event_5749,Use permitted spending changes to complete USD 404.23 by 2025-08-05 while preserving the USD 1300 minimum.
+request_63,39906.07,not_affordable,not_recommended,none,,none,No eligible plan completes INR 343900 by 2026-09-17 while preserving the INR 153500 minimum.
+request_64,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 63700 by 2024-08-16 while preserving the INR 36100 minimum.
+request_65,5782.77,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 54340 by 2025-11-25 while preserving the ZAR 15500 minimum.
+request_66,22200.00,affordable_now,full_payment,2026-04-03:22200,2026-04-03,none,Pay INR 22200 in full on 2026-04-03; the validated 90-date forecast preserves the INR 80700 minimum.
+request_67,274.95,affordable_later,wait,2024-11-15:2094,2024-11-15,none,Wait until 2024-11-15 to pay USD 2094 in full while preserving the USD 1200 minimum.
+request_68,1361.56,affordable_with_plan,installments,2025-02-14:725.09|2025-03-14:725.09|2025-04-11:725.09,2025-03-23,none,Use 3 payments to complete USD 2091.6 by 2025-04-11 while preserving the USD 1500 minimum.
+request_69,517.79,affordable_with_plan,full_payment,2026-01-04:529.1,2026-02-15,stop:event_6405,Use permitted spending changes to complete EUR 529.1 by 2026-01-04 while preserving the EUR 700 minimum.
+request_70,49475.42,affordable_later,wait,2025-02-15:243900,2025-02-15,none,Wait until 2025-02-15 to pay INR 243900 in full while preserving the INR 115000 minimum.
+request_71,77785.41,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 21451000 by 2025-05-28 while preserving the IDR 8884800 minimum.
+request_72,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 11330 by 2026-07-14 while preserving the ZAR 12200 minimum.
+request_73,63336.41,not_affordable,not_recommended,none,2023-02-15,none,No eligible plan completes INR 71400 by 2023-02-13 while preserving the INR 103200 minimum.
+request_74,5010.00,affordable_now,full_payment,2025-08-04:5010,2025-08-04,none,Pay ZAR 5010 in full on 2025-08-04; the validated 90-date forecast preserves the ZAR 21900 minimum.
+request_75,10416.40,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 28270 by 2026-06-12 while preserving the ZAR 39000 minimum.
+request_76,116.36,not_affordable,not_recommended,none,,none,No eligible plan completes USD 4455.6 by 2024-07-30 while preserving the USD 1800 minimum.
+request_77,57385.30,not_affordable,not_recommended,none,2025-11-15,none,No eligible plan completes INR 60700 by 2025-11-14 while preserving the INR 82200 minimum.
+request_78,43222.23,not_affordable,not_recommended,none,2025-10-15,none,No eligible plan completes INR 50200 by 2025-10-14 while preserving the INR 55200 minimum.
+request_79,181.40,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2151.6 by 2024-11-01 while preserving the EUR 1000 minimum.
+request_80,35814.92,not_affordable,not_recommended,none,,none,No eligible plan completes INR 217500 by 2025-02-21 while preserving the INR 121300 minimum.
+request_81,2069.69,affordable_with_plan,full_payment,2026-07-03:2076,2026-07-15,stop:event_7569,Use permitted spending changes to complete USD 2076 by 2026-07-03 while preserving the USD 1600 minimum.
+request_82,308.88,affordable_later,wait,2025-02-15:1405.2,2025-02-15,none,Wait until 2025-02-15 to pay USD 1405.2 in full while preserving the USD 1100 minimum.
+request_83,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 156200 by 2025-06-17 while preserving the INR 37800 minimum.
+request_84,27550.22,affordable_later,wait,2026-06-15:95400,2026-06-15,none,Wait until 2026-06-15 to pay INR 95400 in full while preserving the INR 91300 minimum.
+request_85,374061.81,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 19304000 by 2024-04-26 while preserving the IDR 6396300 minimum.
+request_86,43870.22,affordable_with_plan,full_payment,2025-08-03:46300,2025-08-23,reduce_to:event_8084:2360,Use permitted spending changes to complete INR 46300 by 2025-08-03 while preserving the INR 84900 minimum.
+request_87,18037.34,not_affordable,not_recommended,none,,none,No eligible plan completes INR 487900 by 2026-03-15 while preserving the INR 185900 minimum.
+request_88,10497.62,affordable_with_plan,installments,2024-06-14:9045.23|2024-07-15:9045.23|2024-08-15:9045.23,2024-07-15,none,Use 3 payments to complete ZAR 26092 by 2024-08-15 while preserving the ZAR 25800 minimum.
+request_89,9226703.57,affordable_with_plan,installments,2025-11-18:4768746.67|2025-12-16:4768746.67|2026-01-13:4768746.67,2026-01-15,reduce_to:event_8337:266760|reduce_to:event_8403:203300|stop:event_8335,Use 3 payments to complete IDR 13756000 by 2026-01-13 while preserving the IDR 12534700 minimum.
+request_90,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 2560 by 2026-09-23 while preserving the ZAR 7600 minimum.
+request_91,286.92,affordable_later,wait,2024-11-15:1927.2,2024-11-15,none,Wait until 2024-11-15 to pay EUR 1927.2 in full while preserving the EUR 2100 minimum.
+request_92,34034.00,affordable_now,full_payment,2025-02-05:34034,2025-02-05,none,Pay ZAR 34034 in full on 2025-02-05; the validated 90-date forecast preserves the ZAR 28100 minimum.
+request_93,1729.20,affordable_now,full_payment,2026-04-07:1729.2,2026-04-07,none,Pay USD 1729.2 in full on 2026-04-07; the validated 90-date forecast preserves the USD 1900 minimum.
+request_94,203.01,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 572 by 2024-12-22 while preserving the EUR 600 minimum.
+request_95,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 553000 by 2025-07-14 while preserving the INR 145500 minimum.
+request_96,73002.33,affordable_with_plan,installments,2026-01-10:31269.33|2026-02-09:31269.33|2026-03-11:31269.33,2026-02-15,none,Use 3 payments to complete INR 90200 by 2026-03-11 while preserving the INR 56500 minimum.
+request_97,1833.87,affordable_with_plan,installments,2024-03-19:8145.28|2024-04-19:8145.28|2024-05-20:8145.28,2024-04-15,none,Use 3 payments to complete ZAR 23496 by 2024-05-20 while preserving the ZAR 29700 minimum.
+request_98,2643.34,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 27148 by 2025-10-15 while preserving the ZAR 30000 minimum.
+request_99,16890.90,affordable_with_plan,full_payment,2026-07-04:18062,2026-07-15,reduce_to:event_9232:1065.9,Use permitted spending changes to complete ZAR 18062 by 2026-07-04 while preserving the ZAR 49100 minimum.
+request_100,25888.98,affordable_with_plan,installments,2024-06-13:12866.19|2024-07-14:12866.19|2024-08-14:12866.19,2024-07-15,none,Use 3 payments to complete ZAR 37114 by 2024-08-14 while preserving the ZAR 32500 minimum.
+request_101,143500.00,affordable_now,full_payment,2025-11-03:143500,2025-11-03,none,Pay INR 143500 in full on 2025-11-03; the validated 90-date forecast preserves the INR 187400 minimum.
+request_102,1401.28,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1716 by 2026-06-12 while preserving the EUR 900 minimum.
+request_103,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 368300 by 2024-10-07 while preserving the INR 125500 minimum.
+request_104,17204.00,affordable_now,full_payment,2025-02-04:17204,2025-02-04,none,Pay ZAR 17204 in full on 2025-02-04; the validated 90-date forecast preserves the ZAR 24700 minimum.
+request_105,48239.42,not_affordable,not_recommended,none,2026-06-15,none,No eligible plan completes INR 53500 by 2026-06-14 while preserving the INR 73900 minimum.
+request_106,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2207.7 by 2025-02-15 while preserving the EUR 1200 minimum.
+request_107,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2534.4 by 2025-07-04 while preserving the EUR 1600 minimum.
+request_108,2317.45,not_affordable,not_recommended,none,2026-09-15,none,No eligible plan completes ZAR 55308 by 2026-07-26 while preserving the ZAR 24100 minimum.
+request_109,460.56,not_affordable,not_recommended,none,2024-05-15,none,No eligible plan completes EUR 1863.4 by 2024-05-26 while preserving the EUR 1700 minimum.
+request_110,16838.79,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 22352 by 2025-10-11 while preserving the ZAR 11200 minimum.
+request_111,16625000.00,affordable_now,full_payment,2026-04-03:16625000,2026-04-03,none,Pay IDR 16625000 in full on 2026-04-03; the validated 90-date forecast preserves the IDR 23022800 minimum.
+request_112,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 271.7 by 2024-06-14 while preserving the EUR 500 minimum.
+request_113,22360.44,affordable_later,wait,2026-09-15:36500,2026-09-15,none,Wait until 2026-09-15 to pay INR 36500 in full while preserving the INR 82300 minimum.
+request_114,49353.59,not_affordable,not_recommended,none,2026-02-15,none,No eligible plan completes INR 65300 by 2026-01-14 while preserving the INR 113400 minimum.
+request_115,14552.20,affordable_later,wait,2024-11-15:80500,2024-11-15,none,Wait until 2024-11-15 to pay INR 80500 in full while preserving the INR 38800 minimum.
+request_116,4650.43,not_affordable,not_recommended,none,,none,No eligible plan completes INR 241200 by 2025-04-16 while preserving the INR 80300 minimum.
+request_117,848.69,affordable_with_plan,full_payment,2026-07-05:880,2026-07-15,reduce_to:event_10833:11|reduce_to:event_10878:20.5,Use permitted spending changes to complete EUR 880 by 2026-07-05 while preserving the EUR 1000 minimum.
+request_118,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 738.1 by 2025-02-08 while preserving the EUR 600 minimum.
+request_119,53156.13,affordable_with_plan,installments,2025-05-18:70546.67|2025-06-15:70546.67|2025-07-13:70546.67,2025-07-15,reduce_to:event_11016:2655|reduce_to:event_11057:2370,Use 3 payments to complete INR 203500 by 2025-07-13 while preserving the INR 151200 minimum.
+request_120,7714000.00,affordable_now,full_payment,2026-04-06:7714000,2026-04-06,none,Pay IDR 7714000 in full on 2026-04-06; the validated 90-date forecast preserves the IDR 20050300 minimum.
+request_121,633.60,affordable_now,full_payment,2024-03-03:633.6,2024-03-03,none,Pay USD 633.6 in full on 2024-03-03; the validated 90-date forecast preserves the USD 800 minimum.
+request_122,20558000.00,affordable_with_plan,installments,2025-08-05:7126773.33|2025-09-02:7126773.33|2025-09-30:7126773.33,2025-08-05,none,Use 3 payments to complete IDR 20558000 by 2025-09-30 while preserving the IDR 12588500 minimum.
+request_123,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 4076000 by 2026-03-28 while preserving the IDR 18091200 minimum.
+request_124,1406.49,affordable_with_plan,installments,2024-06-11:1076.12|2024-07-12:1076.12|2024-08-12:1076.12,2024-07-15,none,Use 3 payments to complete EUR 3104.2 by 2024-08-12 while preserving the EUR 1600 minimum.
+request_125,5088.51,not_affordable,not_recommended,none,2025-11-15,none,No eligible plan completes ZAR 6468 by 2025-11-14 while preserving the ZAR 11300 minimum.
+request_126,26642.14,not_affordable,not_recommended,none,,none,No eligible plan completes INR 159600 by 2026-07-17 while preserving the INR 129700 minimum.
+request_127,7933.25,affordable_later,wait,2024-10-15:23980,2024-10-15,none,Wait until 2024-10-15 to pay ZAR 23980 in full while preserving the ZAR 41000 minimum.
+request_128,25168.00,affordable_now,full_payment,2025-02-07:25168,2025-02-07,none,Pay ZAR 25168 in full on 2025-02-07; the validated 90-date forecast preserves the ZAR 42600 minimum.
+request_129,110.47,not_affordable,not_recommended,none,,none,No eligible plan completes USD 2668.8 by 2026-06-18 while preserving the USD 800 minimum.
+request_130,338.17,affordable_later,wait,2025-02-15:1978.8,2025-02-15,none,Wait until 2025-02-15 to pay USD 1978.8 in full while preserving the USD 1400 minimum.
+request_131,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 1855.2 by 2025-07-08 while preserving the USD 1100 minimum.
+request_132,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 379.86 by 2026-02-25 while preserving the USD 1100 minimum.
+request_133,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 15770000 by 2024-03-29 while preserving the IDR 9986200 minimum.
+request_134,4469014.82,affordable_later,wait,2025-10-15:21831000,2025-10-15,none,Wait until 2025-10-15 to pay IDR 21831000 in full while preserving the IDR 15902500 minimum.
+request_135,273.59,affordable_with_plan,full_payment,2026-07-06:304.8,2026-07-15,reduce_to:event_12413:11.5|reduce_to:event_12458:17.5,Use permitted spending changes to complete USD 304.8 by 2026-07-06 while preserving the USD 500 minimum.
+request_136,496.37,not_affordable,not_recommended,none,2024-06-15,none,No eligible plan completes USD 560.4 by 2024-06-14 while preserving the USD 1100 minimum.
+request_137,24928.90,not_affordable,not_recommended,none,,none,No eligible plan completes INR 80100 by 2026-01-15 while preserving the INR 71800 minimum.
+request_138,861.61,affordable_with_plan,partial_payment,2026-04-07:861.61|2026-04-15:395.33,2026-04-15,none,Use two payments to complete EUR 1256.94 by 2026-04-15 while preserving the EUR 2300 minimum.
+request_139,1347.31,affordable_with_plan,installments,2024-09-07:802.88|2024-10-08:802.88|2024-11-08:802.88,2024-10-15,none,Use 3 payments to complete USD 2316 by 2024-11-08 while preserving the USD 1500 minimum.
+request_140,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 62832 by 2025-03-04 while preserving the ZAR 21600 minimum.
+request_141,17674.24,not_affordable,not_recommended,none,,none,No eligible plan completes INR 171600 by 2026-02-12 while preserving the INR 67300 minimum.
+request_142,817.81,not_affordable,not_recommended,none,,none,No eligible plan completes USD 1263.6 by 2025-02-04 while preserving the USD 1700 minimum.
+request_143,2179.72,affordable_later,wait,2025-07-15:12584,2025-07-15,none,Wait until 2025-07-15 to pay ZAR 12584 in full while preserving the ZAR 11300 minimum.
+request_144,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 233.34 by 2026-07-26 while preserving the USD 600 minimum.
+request_145,24072.18,affordable_with_plan,installments,2024-03-20:75365.33|2024-04-20:75365.33|2024-05-21:75365.33,2024-05-15,reduce_to:event_13341:2920|reduce_to:event_13409:3335|stop:event_13342,Use 3 payments to complete INR 217400 by 2024-05-21 while preserving the INR 155400 minimum.
+request_146,11279.92,not_affordable,not_recommended,none,,none,No eligible plan completes INR 449400 by 2025-10-17 while preserving the INR 108600 minimum.
+request_147,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1129.7 by 2026-06-07 while preserving the EUR 900 minimum.
+request_148,7665.48,affordable_with_plan,installments,2024-06-14:7710.56|2024-07-15:7710.56|2024-08-15:7710.56,2024-07-15,stop:event_13591,Use 3 payments to complete ZAR 22242 by 2024-08-15 while preserving the ZAR 20000 minimum.
+request_149,24545.82,affordable_with_plan,installments,2025-11-18:12706.03|2025-12-16:12706.03|2026-01-13:12706.03,2025-12-15,none,Use 3 payments to complete ZAR 36652 by 2026-01-13 while preserving the ZAR 42100 minimum.
+request_150,225.79,affordable_with_plan,installments,2026-01-06:171.98|2026-02-05:171.98|2026-03-07:171.98,2026-03-15,reduce_to:event_13787:16|stop:event_13785|stop:event_13786,Use 3 payments to complete EUR 496.1 by 2026-03-07 while preserving the EUR 700 minimum.
+request_151,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 26999000 by 2024-09-14 while preserving the IDR 31633600 minimum.
+request_152,11035.96,not_affordable,not_recommended,none,2025-04-15,none,No eligible plan completes ZAR 13882 by 2025-04-13 while preserving the ZAR 11900 minimum.
+request_153,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 2830.8 by 2026-09-24 while preserving the USD 1400 minimum.
+request_154,1625.80,affordable_with_plan,installments,2024-12-04:563.61|2025-01-04:563.61|2025-02-04:563.61,2024-12-04,none,Use 3 payments to complete EUR 1625.8 by 2025-02-04 while preserving the EUR 1300 minimum.
+request_155,112500.00,affordable_now,full_payment,2025-05-06:112500,2025-05-06,none,Pay INR 112500 in full on 2025-05-06; the validated 90-date forecast preserves the INR 56300 minimum.
+request_156,6781.13,affordable_later,wait,2026-06-15:43076,2026-06-15,none,Wait until 2026-06-15 to pay ZAR 43076 in full while preserving the ZAR 26900 minimum.
+request_157,4352610.76,affordable_later,wait,2024-05-15:23503000,2024-05-15,none,Wait until 2024-05-15 to pay IDR 23503000 in full while preserving the IDR 15714100 minimum.
+request_158,203738.63,not_affordable,not_recommended,none,,none,No eligible plan completes INR 242600 by 2025-10-02 while preserving the INR 131400 minimum.
+request_159,256.83,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 13398 by 2026-03-20 while preserving the ZAR 8700 minimum.
+request_160,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1246.3 by 2024-08-20 while preserving the EUR 1200 minimum.
+request_161,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 21204000 by 2026-01-15 while preserving the IDR 23010400 minimum.
+request_162,1159061.72,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 83923000 by 2026-08-26 while preserving the IDR 24161100 minimum.
+request_163,7437163.24,not_affordable,not_recommended,none,2024-11-15,none,No eligible plan completes IDR 19304000 by 2024-11-15 while preserving the IDR 26728700 minimum.
+request_164,27018000.00,affordable_with_plan,installments,2025-02-11:9366240|2025-03-11:9366240|2025-04-08:9366240,2025-02-04,none,Use 3 payments to complete IDR 27018000 by 2025-04-08 while preserving the IDR 29550500 minimum.
+request_165,79004.86,affordable_with_plan,full_payment,2026-04-06:80600,,reduce_to:event_15135:1665,Use permitted spending changes to complete INR 80600 by 2026-04-06 while preserving the INR 95000 minimum.
+request_166,2907.60,affordable_with_plan,installments,2024-12-03:1007.97|2025-01-03:1007.97|2025-02-03:1007.97,2024-12-03,none,Use 3 payments to complete USD 2907.6 by 2025-02-03 while preserving the USD 1700 minimum.
+request_167,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 43802 by 2025-05-31 while preserving the ZAR 31200 minimum.
+request_168,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 49380 by 2026-03-16 while preserving the INR 114400 minimum.
+request_169,41976.00,affordable_now,full_payment,2024-03-04:41976,2024-03-04,none,Pay ZAR 41976 in full on 2024-03-04; the validated 90-date forecast preserves the ZAR 18700 minimum.
+request_170,30183194.40,affordable_with_plan,installments,2025-08-06:12804480|2025-09-03:12804480|2025-10-01:12804480,2025-09-15,stop:event_15604,Use 3 payments to complete IDR 36936000 by 2025-10-01 while preserving the IDR 24715800 minimum.
+request_171,30.56,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1878.8 by 2026-09-10 while preserving the EUR 500 minimum.
+request_172,9598.68,affordable_with_plan,partial_payment,2024-06-05:9598.68|2024-06-15:601.32,2024-06-15,none,Use two payments to complete ZAR 10200 by 2024-06-15 while preserving the ZAR 27200 minimum.
+request_173,52640.85,affordable_with_plan,installments,2025-11-21:39173.33|2025-12-19:39173.33|2026-01-16:39173.33,,reduce_to:event_15946:2105,Use 3 payments to complete INR 113000 by 2026-01-16 while preserving the INR 79100 minimum.
+request_174,1146.20,affordable_with_plan,installments,2026-04-04:397.35|2026-05-04:397.35|2026-06-03:397.35,2026-04-04,none,Use 3 payments to complete EUR 1146.2 by 2026-06-03 while preserving the EUR 700 minimum.
+request_175,2346.30,affordable_now,full_payment,2024-09-06:2346.3,2024-09-06,none,Pay EUR 2346.3 in full on 2024-09-06; the validated 90-date forecast preserves the EUR 1700 minimum.
+request_176,350.63,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1239.7 by 2025-02-27 while preserving the EUR 600 minimum.
+request_177,1017.60,affordable_now,full_payment,2026-01-05:1017.6,2026-01-05,none,Pay USD 1017.6 in full on 2026-01-05; the validated 90-date forecast preserves the USD 1300 minimum.
+request_178,2568.98,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2938.1 by 2025-02-12 while preserving the EUR 1400 minimum.
+request_179,5664043.33,affordable_later,wait,2025-07-15:41648000,2025-07-15,none,Wait until 2025-07-15 to pay IDR 41648000 in full while preserving the IDR 41430800 minimum.
+request_180,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 66500 by 2026-09-02 while preserving the INR 37300 minimum.
+request_181,171.98,not_affordable,not_recommended,none,,none,No eligible plan completes USD 5059.2 by 2024-04-07 while preserving the USD 2000 minimum.
+request_182,65714.00,affordable_now,full_payment,2025-08-05:65714,2025-08-05,none,Pay ZAR 65714 in full on 2025-08-05; the validated 90-date forecast preserves the ZAR 31100 minimum.
+request_183,23107211.77,affordable_with_plan,installments,2026-04-10:9313546.67|2026-05-10:9313546.67|2026-06-09:9313546.67,2026-05-15,none,Use 3 payments to complete IDR 26866000 by 2026-06-09 while preserving the IDR 11878300 minimum.
+request_184,9316.10,not_affordable,not_recommended,none,,none,No eligible plan completes INR 251900 by 2024-07-30 while preserving the INR 110800 minimum.
+request_185,318.41,affordable_later,wait,2026-01-15:1257.3,2026-01-15,none,Wait until 2026-01-15 to pay EUR 1257.3 in full while preserving the EUR 1300 minimum.
+request_186,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 26554 by 2026-03-15 while preserving the ZAR 22000 minimum.
+request_187,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 187500 by 2024-11-15 while preserving the INR 128300 minimum.
+request_188,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2464 by 2025-03-04 while preserving the EUR 900 minimum.
+request_189,488.40,affordable_now,full_payment,2026-07-04:488.4,2026-07-04,none,Pay EUR 488.4 in full on 2026-07-04; the validated 90-date forecast preserves the EUR 400 minimum.
+request_190,528.67,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 2557.5 by 2025-02-15 while preserving the EUR 1600 minimum.
+request_191,664.40,affordable_now,full_payment,2025-05-03:664.4,2025-05-03,none,Pay EUR 664.4 in full on 2025-05-03; the validated 90-date forecast preserves the EUR 500 minimum.
+request_192,113.88,not_affordable,not_recommended,none,,none,No eligible plan completes USD 2046 by 2026-05-11 while preserving the USD 1000 minimum.
+request_193,23.01,affordable_with_plan,installments,2024-03-21:420.23|2024-04-21:420.23|2024-05-22:420.23,2024-04-15,none,Use 3 payments to complete EUR 1212.2 by 2024-05-22 while preserving the EUR 1000 minimum.
+request_194,34703.75,affordable_later,wait,2025-10-23:132800,2025-10-23,none,Wait until 2025-10-23 to pay INR 132800 in full while preserving the INR 113600 minimum.
+request_195,47.98,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1170.4 by 2026-03-11 while preserving the EUR 700 minimum.
+request_196,762.30,affordable_now,full_payment,2024-06-03:762.3,2024-06-03,none,Pay EUR 762.3 in full on 2024-06-03; the validated 90-date forecast preserves the EUR 500 minimum.
+request_197,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 50939000 by 2026-01-21 while preserving the IDR 26245900 minimum.
+request_198,185800.00,affordable_now,full_payment,2026-07-07:185800,2026-07-07,none,Pay INR 185800 in full on 2026-07-07; the validated 90-date forecast preserves the INR 124300 minimum.
+request_199,23674000.00,affordable_with_plan,installments,2024-09-07:8206986.67|2024-10-08:8206986.67|2024-11-08:8206986.67,2024-09-04,none,Use 3 payments to complete IDR 23674000 by 2024-11-08 while preserving the IDR 25359500 minimum.
+request_200,21717000.00,affordable_now,full_payment,2025-02-06:21717000,2025-02-06,none,Pay IDR 21717000 in full on 2025-02-06; the validated 90-date forecast preserves the IDR 20114600 minimum.
+request_201,23997000.00,affordable_now,full_payment,2026-04-03:23997000,2026-04-03,none,Pay IDR 23997000 in full on 2026-04-03; the validated 90-date forecast preserves the IDR 17304500 minimum.
+request_202,123900.00,affordable_now,full_payment,2024-12-05:123900,2024-12-05,none,Pay INR 123900 in full on 2024-12-05; the validated 90-date forecast preserves the INR 147800 minimum.
+request_203,1184.76,affordable_with_plan,installments,2025-05-10:499.93|2025-06-07:499.93|2025-07-05:499.93,,reduce_to:event_18663:35|reduce_to:event_18728:38,Use 3 payments to complete EUR 1442.1 by 2025-07-05 while preserving the EUR 1400 minimum.
+request_204,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 588.74 by 2026-01-31 while preserving the EUR 1300 minimum.
+request_205,10621000.00,affordable_now,full_payment,2024-03-06:10621000,2024-03-06,none,Pay IDR 10621000 in full on 2024-03-06; the validated 90-date forecast preserves the IDR 13994300 minimum.
+request_206,1404.70,affordable_with_plan,installments,2025-08-03:486.96|2025-08-31:486.96|2025-09-28:486.96,2025-08-03,none,Use 3 payments to complete EUR 1404.7 by 2025-09-28 while preserving the EUR 900 minimum.
+request_207,4205.61,affordable_later,wait,2026-07-15:11830,2026-07-15,none,Wait until 2026-07-15 to pay ZAR 11830 in full while preserving the ZAR 13600 minimum.
+request_208,3104179.08,affordable_later,wait,2024-06-15:4413000,2024-06-15,none,Wait until 2024-06-15 to pay IDR 4413000 in full while preserving the IDR 10470700 minimum.
+request_209,1808.74,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 56914 by 2025-11-25 while preserving the ZAR 18400 minimum.
+request_210,965.41,affordable_with_plan,partial_payment,2026-04-06:965.41|2026-04-15:394.61,2026-04-15,none,Use two payments to complete USD 1360.02 by 2026-04-15 while preserving the USD 2000 minimum.
+request_211,271.07,affordable_later,wait,2024-11-15:1788.6,2024-11-15,none,Wait until 2024-11-15 to pay EUR 1788.6 in full while preserving the EUR 1500 minimum.
+request_212,2192828.74,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 71934000 by 2025-02-28 while preserving the IDR 29579800 minimum.
+request_213,2585.42,not_affordable,not_recommended,none,,none,No eligible plan completes USD 3362.4 by 2026-03-22 while preserving the USD 2100 minimum.
+request_214,49734.52,affordable_with_plan,partial_payment,2024-12-04:49734.52|2024-12-15:20015.48,2024-12-15,none,Use two payments to complete INR 69750 by 2024-12-15 while preserving the INR 174900 minimum.
+request_215,29986.00,affordable_with_plan,installments,2025-05-09:10395.15|2025-06-06:10395.15|2025-07-04:10395.15,2025-05-06,none,Use 3 payments to complete ZAR 29986 by 2025-07-04 while preserving the ZAR 15700 minimum.
+request_216,376.71,affordable_later,wait,2026-09-15:3332.4,2026-09-15,none,Wait until 2026-09-15 to pay USD 3332.4 in full while preserving the USD 1800 minimum.
+request_217,19686.45,affordable_with_plan,installments,2024-03-19:12889.07|2024-04-19:12889.07|2024-05-20:12889.07,2024-05-15,none,Use 3 payments to complete ZAR 37180 by 2024-05-20 while preserving the ZAR 26800 minimum.
+request_218,23418874.93,affordable_with_plan,installments,2025-08-07:21195893.33|2025-09-04:21195893.33|2025-10-02:21195893.33,2025-09-15,none,Use 3 payments to complete IDR 61142000 by 2025-10-02 while preserving the IDR 34477200 minimum.
+request_219,661.51,affordable_with_plan,installments,2026-04-07:580.01|2026-05-07:580.01|2026-06-06:580.01,2026-05-15,none,Use 3 payments to complete EUR 1673.1 by 2026-06-06 while preserving the EUR 1100 minimum.
+request_220,50.71,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 3118.5 by 2024-07-03 while preserving the EUR 1100 minimum.
+request_221,109800.00,affordable_now,full_payment,2025-11-03:109800,2025-11-03,none,Pay INR 109800 in full on 2025-11-03; the validated 90-date forecast preserves the INR 81500 minimum.
+request_222,29856.58,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 34078 by 2026-03-10 while preserving the ZAR 27300 minimum.
+request_223,898.70,affordable_now,full_payment,2024-09-07:898.7,2024-09-07,none,Pay EUR 898.7 in full on 2024-09-07; the validated 90-date forecast preserves the EUR 800 minimum.
+request_224,8538319.65,affordable_with_plan,partial_payment,2025-02-04:8538319.65|2025-02-15:1788680.35,2025-02-15,none,Use two payments to complete IDR 10327000 by 2025-02-15 while preserving the IDR 22187600 minimum.
+request_225,9380382.41,affordable_with_plan,installments,2026-07-20:7647120|2026-08-19:7647120|2026-09-18:7647120,2026-09-15,stop:event_20650,Use 3 payments to complete IDR 22059000 by 2026-09-18 while preserving the IDR 17670700 minimum.
+request_226,157000.00,affordable_now,full_payment,2024-12-03:157000,2024-12-03,none,Pay INR 157000 in full on 2024-12-03; the validated 90-date forecast preserves the INR 209400 minimum.
+request_227,7699.12,not_affordable,not_recommended,none,,none,No eligible plan completes INR 259700 by 2025-06-20 while preserving the INR 62900 minimum.
+request_228,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 63327000 by 2026-04-30 while preserving the IDR 26191200 minimum.
+request_229,420.82,affordable_with_plan,installments,2024-03-18:529.29|2024-04-18:529.29|2024-05-19:529.29,2024-05-15,stop:event_21031|stop:event_21032,Use 3 payments to complete EUR 1526.8 by 2024-05-19 while preserving the EUR 1000 minimum.
+request_230,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 3537.6 by 2025-10-04 while preserving the EUR 2000 minimum.
+request_231,32362.43,affordable_with_plan,installments,2026-01-06:12378.08|2026-02-05:12378.08|2026-03-07:12378.08,2026-02-15,none,Use 3 payments to complete ZAR 35706 by 2026-03-07 while preserving the ZAR 24300 minimum.
+request_232,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1970.1 by 2024-08-15 while preserving the EUR 2400 minimum.
+request_233,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 6241000 by 2025-12-17 while preserving the IDR 10365700 minimum.
+request_234,184.65,affordable_later,wait,2026-09-15:1213.3,2026-09-15,none,Wait until 2026-09-15 to pay EUR 1213.3 in full while preserving the EUR 700 minimum.
+request_235,967.20,affordable_now,full_payment,2024-09-06:967.2,2024-09-06,none,Pay USD 967.2 in full on 2024-09-06; the validated 90-date forecast preserves the USD 700 minimum.
+request_236,5342597.54,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 52383000 by 2025-02-23 while preserving the IDR 16768600 minimum.
+request_237,23826000.00,affordable_now,full_payment,2026-04-05:23826000,2026-04-05,none,Pay IDR 23826000 in full on 2026-04-05; the validated 90-date forecast preserves the IDR 22431500 minimum.
+request_238,663.60,affordable_with_plan,installments,2024-12-07:230.05|2025-01-07:230.05|2025-02-07:230.05,2024-12-07,none,Use 3 payments to complete USD 663.6 by 2025-02-07 while preserving the USD 700 minimum.
+request_239,613.29,affordable_later,wait,2025-05-15:642,2025-05-15,none,Wait until 2025-05-15 to pay USD 642 in full while preserving the USD 600 minimum.
+request_240,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 101200 by 2026-03-20 while preserving the INR 52800 minimum.
+request_241,21052000.00,affordable_with_plan,installments,2024-03-17:7298026.67|2024-04-17:7298026.67|2024-05-18:7298026.67,2024-03-03,none,Use 3 payments to complete IDR 21052000 by 2024-05-18 while preserving the IDR 19252000 minimum.
+request_242,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1966.8 by 2025-08-25 while preserving the EUR 600 minimum.
+request_243,17468.00,affordable_now,full_payment,2026-07-07:17468,2026-07-07,none,Pay ZAR 17468 in full on 2026-07-07; the validated 90-date forecast preserves the ZAR 19900 minimum.
+request_244,49918.00,affordable_now,full_payment,2024-06-04:49918,2024-06-04,none,Pay ZAR 49918 in full on 2024-06-04; the validated 90-date forecast preserves the ZAR 45900 minimum.
+request_245,21930.65,affordable_later,wait,2026-01-15:128500,2026-01-15,none,Wait until 2026-01-15 to pay INR 128500 in full while preserving the INR 94600 minimum.
+request_246,64086.00,affordable_with_plan,installments,2026-04-03:22216.48|2026-05-03:22216.48|2026-06-02:22216.48,2026-04-03,reduce_to:event_22613:609.4,Use 3 payments to complete ZAR 64086 by 2026-06-02 while preserving the ZAR 39300 minimum.
+request_247,1059.30,affordable_now,full_payment,2024-09-05:1059.3,2024-09-05,none,Pay EUR 1059.3 in full on 2024-09-05; the validated 90-date forecast preserves the EUR 1300 minimum.
+request_248,265.37,not_affordable,not_recommended,none,,none,No eligible plan completes USD 1965.6 by 2025-04-28 while preserving the USD 1300 minimum.
+request_249,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes USD 643.2 by 2026-03-15 while preserving the USD 600 minimum.
+request_250,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 124278 by 2025-01-18 while preserving the ZAR 35300 minimum.
+request_251,58.71,not_affordable,not_recommended,none,,none,No eligible plan completes EUR 1513.6 by 2025-06-06 while preserving the EUR 1300 minimum.
+request_252,3553677.74,affordable_later,wait,2026-09-15:28082000,2026-09-15,none,Wait until 2026-09-15 to pay IDR 28082000 in full while preserving the IDR 15152200 minimum.
+request_253,1383.13,affordable_with_plan,installments,2024-03-21:984.6|2024-04-21:984.6|2024-05-22:984.6,2024-05-15,none,Use 3 payments to complete EUR 2840.2 by 2024-05-22 while preserving the EUR 2300 minimum.
+request_254,517.65,affordable_later,wait,2025-10-15:3535.2,2025-10-15,none,Wait until 2025-10-15 to pay USD 3535.2 in full while preserving the USD 2500 minimum.
+request_255,685690.62,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 3345000 by 2026-06-15 while preserving the IDR 9813900 minimum.
+request_256,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 218700 by 2024-08-19 while preserving the INR 168600 minimum.
+request_257,356.04,affordable_later,wait,2026-01-15:1352.4,2026-01-15,none,Wait until 2026-01-15 to pay USD 1352.4 in full while preserving the USD 1600 minimum.
+request_258,1113.60,affordable_now,full_payment,2026-01-07:1113.6,2026-01-07,none,Pay USD 1113.6 in full on 2026-01-07; the validated 90-date forecast preserves the USD 500 minimum.
+request_259,219.72,affordable_later,wait,2024-11-15:935,2024-11-15,none,Wait until 2024-11-15 to pay EUR 935 in full while preserving the EUR 600 minimum.
+request_260,6443035.82,not_affordable,not_recommended,none,,none,No eligible plan completes IDR 52079000 by 2025-04-18 while preserving the IDR 20727700 minimum.
+request_261,1830.40,affordable_now,full_payment,2026-07-03:1830.4,2026-07-03,none,Pay EUR 1830.4 in full on 2026-07-03; the validated 90-date forecast preserves the EUR 1500 minimum.
+request_262,9236000.00,affordable_now,full_payment,2024-12-05:9236000,2024-12-05,none,Pay IDR 9236000 in full on 2024-12-05; the validated 90-date forecast preserves the IDR 31018500 minimum.
+request_263,5256.59,not_affordable,not_recommended,none,,none,No eligible plan completes ZAR 51546 by 2025-06-15 while preserving the ZAR 24100 minimum.
+request_264,23012.52,affordable_later,wait,2026-06-15:111300,2026-06-15,none,Wait until 2026-06-15 to pay INR 111300 in full while preserving the INR 59500 minimum.
+request_265,0.00,not_affordable,not_recommended,none,,none,No eligible plan completes INR 45970 by 2024-03-21 while preserving the INR 189700 minimum.
+request_266,770.18,not_affordable,not_recommended,none,2025-09-15,none,No eligible plan completes EUR 935 by 2025-10-03 while preserving the EUR 900 minimum.
+request_267,1644.69,affordable_with_plan,installments,2026-01-08:667.33|2026-02-07:667.33|2026-03-09:667.33,2026-02-15,none,Use 3 payments to complete EUR 1925 by 2026-03-09 while preserving the EUR 1500 minimum.
+request_268,1061.93,affordable_with_plan,installments,2024-06-14:841.22|2024-07-15:841.22|2024-08-15:841.22,2024-07-15,none,Use 3 payments to complete EUR 2426.6 by 2024-08-15 while preserving the EUR 1400 minimum.
+request_269,9664.79,affordable_later,wait,2025-12-15:15490,2025-12-15,none,Wait until 2025-12-15 to pay ZAR 15490 in full while preserving the ZAR 23100 minimum.
+request_270,96.77,not_affordable,not_recommended,none,,none,No eligible plan completes USD 3028.8 by 2026-08-30 while preserving the USD 1400 minimum.
+request_271,13832.03,affordable_later,wait,2024-11-15:91300,2024-11-15,none,Wait until 2024-11-15 to pay INR 91300 in full while preserving the INR 58200 minimum.
+request_272,5420361.49,affordable_with_plan,installments,2025-02-12:4709466.67|2025-03-12:4709466.67|2025-04-09:4709466.67,2025-03-15,none,Use 3 payments to complete IDR 13585000 by 2025-04-09 while preserving the IDR 7508600 minimum.
+request_273,9476871.09,affordable_with_plan,partial_payment,2026-04-07:9476871.09|2026-04-15:6384128.91,2026-04-15,none,Use two payments to complete IDR 15861000 by 2026-04-15 while preserving the IDR 18774600 minimum.
+request_274,2013.17,not_affordable,not_recommended,none,2025-02-15,none,No eligible plan completes EUR 2713.7 by 2025-02-11 while preserving the EUR 1800 minimum.
+request_275,15884000.00,affordable_now,full_payment,2025-05-06:15884000,2025-05-06,none,Pay IDR 15884000 in full on 2025-05-06; the validated 90-date forecast preserves the IDR 12760100 minimum.

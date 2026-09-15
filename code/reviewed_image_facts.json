@@ -1,0 +1,72 @@
+{
+  "schema_version": "1",
+  "review_method": "user-approved local visual review",
+  "reviews": [
+    {
+      "source_id": "image_06",
+      "image_sha256": "9055551fbe5940feb01b947e1f18ccfed093192d103b1e930a56df0ea7cd3cb4",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"1995","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_06","quote":"Total 1995.00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_07",
+      "image_sha256": "f6d30a74355224c0b5cda2d7f96399a7b1a0afe4f9fe59ea048bbecb1a21311e",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"8528","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_07","quote":"Grand Total (RS) : 8528","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_08",
+      "image_sha256": "e28592ad8b4dacd03055e0b1ebc46670c83fbfa1162af07bdef33bb226bf63c8",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"15339","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_08","quote":"Total Amount Received ₹ 15,339.00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_09",
+      "image_sha256": "e0e74e14425d923ff8a5c6db26ec6f4f26ee4697bfd257e414ba05c947a75ba8",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"723","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_09","quote":"Total Amount Received ₹ 723.00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_10",
+      "image_sha256": "c90f98caf0877083e471fd47dace772f83d4782037cf112e97c63f79a10ea8cf",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"79679.26","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_10","quote":"Balance Due ₹79,679.26","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_11",
+      "image_sha256": "795e000d48428c97748e8af370cb02b604bec88cc52ec8930f38dc744624e886",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"3650","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_11","quote":"Amount Payable: 3650.00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_12",
+      "image_sha256": "e10b0123e66d512d82f6c431fb741053b336627b89b9d9a138071ac6980a14ff",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"33.50","currency":"USD","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_12","quote":"Total: $33.50","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_13",
+      "image_sha256": "1ae54b378a9556d94b753093ba80e7117caf86fab4d3fe11ec84e3dd2f6d6dd8",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"2298","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_13","quote":"Total paid ₹2,298","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_14",
+      "image_sha256": "bf88e4aa35e6f36304cbf76bf6f505f32b04466bfd5f7df693fcb3ebe8a3e2c1",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"4593","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_14","quote":"TOTAL 4593 00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_15",
+      "image_sha256": "0c0fe3d79e670f2b423bbb2aafc0b5601d3eb4e659ac64058cd189abf7792ee1",
+      "facts": [{"type":"amount_fill","scope":"event","amount":"9968","currency":"INR","effective_date":"","settlement_date":"","recurrence":"one_time","source_identity":"image_15","quote":"Grand Total 9,968.00","uncertainty":""}],
+      "unresolved": []
+    },
+    {
+      "source_id": "image_16",
+      "image_sha256": "2665cf731a861ddb217be5b8082fbd390850a7a98feec018519b6fda0b30b4f8",
+      "facts": [],
+      "unresolved": ["No approved final amount was recorded for this image observation."]
+    }
+  ]
+}
